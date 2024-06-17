@@ -101,7 +101,7 @@ The code uses texture mapping for the floor and background, as well having the a
 ## References
 - Shirley S & Black T & Hollasch S.(2023).Ray tracing in one weekend: 4.4.1 the ray class, 6.6.3 an abstraction for hittable objects. Retrieved from (https://raytracing.github.io/books/RayTracingInOneWeekend.html)
 - Poovvancheri J.(2023).Introduction to computer graphics: antialiasing.
-- Poovvancheri J.(2023).GraphicsLab: sampling. Retrieved from (https://github.com/jijup/GraphicsLab/tree/main/sampling)
+- Poovvancheri J.(2023).GraphicsLab: sampling. Retrieved from [](https://github.com/jijup/GraphicsLab/tree/main/sampling)
 - Shirley P & Marschner S. (2009). Fundamentals of computer graphics: 2.7.2 3D triangles (3rd ed., pp. 48-49).A K Peters.
 - Poovvancheri J. (2023).GraphicsLab: texturing. Retrieved from (https://github.com/jijup/GraphicsLab/tree/main/texturing)
 - Poovvancheri J.(2023).Introduction to computer graphics: texture mapping.
